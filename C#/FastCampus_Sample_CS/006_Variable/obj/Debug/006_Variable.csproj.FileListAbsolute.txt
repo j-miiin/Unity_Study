@@ -1,0 +1,7 @@
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe.config
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.pdb
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csprojAssemblyReference.cache
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb

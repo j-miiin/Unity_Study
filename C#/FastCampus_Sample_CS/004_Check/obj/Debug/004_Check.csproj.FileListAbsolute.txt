@@ -1,0 +1,6 @@
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.exe.config
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\bin\Debug\004_Check.pdb
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\004_Check\obj\Debug\004_Check.pdb

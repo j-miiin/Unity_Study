@@ -1,0 +1,6 @@
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb

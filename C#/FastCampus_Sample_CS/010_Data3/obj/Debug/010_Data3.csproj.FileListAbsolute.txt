@@ -1,0 +1,6 @@
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.exe.config
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.pdb
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.exe
+C:\김정민\Unity_Study\C샾\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.pdb

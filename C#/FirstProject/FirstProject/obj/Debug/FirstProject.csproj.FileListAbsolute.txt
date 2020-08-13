@@ -1,0 +1,7 @@
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\김정민\Unity_Study\C샾\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
