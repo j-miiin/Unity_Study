@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//
+// 
 
 namespace _017_Data_bool
 {
@@ -12,6 +12,7 @@ namespace _017_Data_bool
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

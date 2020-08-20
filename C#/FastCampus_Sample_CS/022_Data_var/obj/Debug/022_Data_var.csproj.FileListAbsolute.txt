@@ -1,0 +1,7 @@
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.exe.config
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\bin\Debug\022_Data_var.pdb
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.csprojAssemblyReference.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\022_Data_var\obj\Debug\022_Data_var.pdb

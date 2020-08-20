@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb

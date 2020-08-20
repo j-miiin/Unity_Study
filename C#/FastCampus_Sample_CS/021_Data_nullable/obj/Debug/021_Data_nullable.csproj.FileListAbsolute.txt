@@ -1,0 +1,6 @@
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.pdb

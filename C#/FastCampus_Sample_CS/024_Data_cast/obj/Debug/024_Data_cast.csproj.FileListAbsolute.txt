@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

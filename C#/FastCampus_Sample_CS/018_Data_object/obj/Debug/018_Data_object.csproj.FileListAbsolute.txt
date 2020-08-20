@@ -1,0 +1,7 @@
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe.config
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\bin\Debug\018_Data_object.pdb
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.csprojAssemblyReference.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\018_Data_object\obj\Debug\018_Data_object.pdb

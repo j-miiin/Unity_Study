@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\bin\Debug\025_Data_ToString.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\025_Data_ToString\obj\Debug\025_Data_ToString.pdb

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb

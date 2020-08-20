@@ -1,0 +1,6 @@
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+C:\김정민\Unity_Study\C#\FastCampus_Sample_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb
