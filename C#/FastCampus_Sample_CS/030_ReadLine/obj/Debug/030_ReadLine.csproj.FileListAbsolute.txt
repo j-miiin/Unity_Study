@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\bin\Debug\030_ReadLine.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\030_ReadLine\obj\Debug\030_ReadLine.pdb

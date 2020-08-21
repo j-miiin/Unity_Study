@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\bin\Debug\034_Operator1.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\034_Operator1\obj\Debug\034_Operator1.pdb

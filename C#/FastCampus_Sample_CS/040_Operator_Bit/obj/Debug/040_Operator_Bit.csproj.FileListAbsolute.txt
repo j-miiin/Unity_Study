@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.pdb

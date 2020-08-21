@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.pdb

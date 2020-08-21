@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.pdb
