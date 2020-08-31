@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb

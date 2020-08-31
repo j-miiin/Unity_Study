@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\bin\Debug\046_Operator_switch.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\bin\Debug\046_Operator_switch.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\bin\Debug\046_Operator_switch.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\obj\Debug\046_Operator_switch.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\obj\Debug\046_Operator_switch.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\046_Operator_switch\obj\Debug\046_Operator_switch.pdb

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\bin\Debug\044_Operator_Branch3.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\bin\Debug\044_Operator_Branch3.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\bin\Debug\044_Operator_Branch3.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\obj\Debug\044_Operator_Branch3.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\obj\Debug\044_Operator_Branch3.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\044_Operator_Branch3\obj\Debug\044_Operator_Branch3.pdb

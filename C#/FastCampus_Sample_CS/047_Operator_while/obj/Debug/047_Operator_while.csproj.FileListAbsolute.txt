@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\bin\Debug\047_Operator_while.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\047_Operator_while\obj\Debug\047_Operator_while.pdb
