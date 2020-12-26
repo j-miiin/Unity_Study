@@ -12,8 +12,8 @@ namespace _057_Check
     {
         static void Main(string[] args)
         {
-            int maxNum = 0;
-            int minNum = 100;
+            int maxNum = 0; // int maxNum = int.MinValue;
+            int minNum = 100;   // int minNum = int.MaxValue;
             for (int i = 0; i < 5; i++)
             {
                 Console.Write("학생의 성적을 입력하세요 : ");

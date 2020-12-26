@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\bin\Debug\066_Func_params.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\bin\Debug\066_Func_params.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\bin\Debug\066_Func_params.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\obj\Debug\066_Func_params.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\obj\Debug\066_Func_params.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\066_Func_params\obj\Debug\066_Func_params.pdb

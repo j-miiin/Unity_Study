@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\bin\Debug\063_Func_out.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\063_Func_out\obj\Debug\063_Func_out.pdb
