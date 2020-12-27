@@ -19,6 +19,7 @@ namespace _067_Check
         {
             Console.Write("국어 성적 입력(정수): ");
             kor = int.Parse(Console.ReadLine());
+            // kor = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("수학 성적 입력(정수): ");
             mat = int.Parse(Console.ReadLine());
@@ -38,7 +39,7 @@ namespace _067_Check
         // 성적의 평균
         static void Average(int total, out float average)
         {
-            average = (float)total / 3;
+            average = (float)total / 3; // total / 3f;
         }
         static void Main(string[] args)
         {

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\bin\Debug\068_Array_Init.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\bin\Debug\068_Array_Init.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\bin\Debug\068_Array_Init.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\obj\Debug\068_Array_Init.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\obj\Debug\068_Array_Init.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\068_Array_Init\obj\Debug\068_Array_Init.pdb
