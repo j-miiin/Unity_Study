@@ -62,7 +62,9 @@ namespace _076_Check
                 PrintResult(a[index], b[index]);
                 index++;
 
-                if (CheckEnd() == false)
+                if (CheckEnd() == false)    // if (index >= 10 || CheckEnd())
+                    // for (int i = 0; i < index; i++) 
+                    //      PrintResult(a[i], b[i]);
                     break;
             }
             
