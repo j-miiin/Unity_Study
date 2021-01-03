@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\obj\Debug\089_interface.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\obj\Debug\089_interface.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\bin\Debug\089_interface.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\bin\Debug\089_interface.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\bin\Debug\089_interface.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\obj\Debug\089_interface.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\089_interface\obj\Debug\089_interface.pdb

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\bin\Debug\086_partial.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\086_partial\obj\Debug\086_partial.pdb

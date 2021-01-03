@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\bin\Debug\090_abstract.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\bin\Debug\090_abstract.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\bin\Debug\090_abstract.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\obj\Debug\090_abstract.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\obj\Debug\090_abstract.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\090_abstract\obj\Debug\090_abstract.pdb

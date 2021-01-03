@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\bin\Debug\081_03_class_base.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\081_03_class_base\obj\Debug\081_03_class_base.pdb

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\bin\Debug\091_Property02.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\obj\Debug\091_Property02.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\obj\Debug\091_Property02.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\091_Property02\obj\Debug\091_Property02.pdb

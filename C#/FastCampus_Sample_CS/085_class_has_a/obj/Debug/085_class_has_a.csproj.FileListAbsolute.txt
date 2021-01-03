@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\bin\Debug\085_class_has_a.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\085_class_has_a\obj\Debug\085_class_has_a.pdb
