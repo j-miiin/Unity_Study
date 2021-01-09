@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\bin\Debug\097_Stack.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\097_Stack\obj\Debug\097_Stack.pdb

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\bin\Debug\096_Queue.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\bin\Debug\096_Queue.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\bin\Debug\096_Queue.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\obj\Debug\096_Queue.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\obj\Debug\096_Queue.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\096_Queue\obj\Debug\096_Queue.pdb
