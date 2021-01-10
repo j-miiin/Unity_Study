@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\bin\Debug\105_dynamic.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\bin\Debug\105_dynamic.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\bin\Debug\105_dynamic.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\obj\Debug\105_dynamic.csprojAssemblyReference.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\obj\Debug\105_dynamic.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\obj\Debug\105_dynamic.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\105_dynamic\obj\Debug\105_dynamic.pdb

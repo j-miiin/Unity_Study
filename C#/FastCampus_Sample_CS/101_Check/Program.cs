@@ -75,7 +75,7 @@ namespace _101_Check
         {
             foreach (object data in hash.Keys)
             {
-                Console.WriteLine("학생 ID: ", data);
+                Console.WriteLine("학생 ID: " + data);
             }
         }
 

@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\bin\Debug\104_GenericClass.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\104_GenericClass\obj\Debug\104_GenericClass.pdb

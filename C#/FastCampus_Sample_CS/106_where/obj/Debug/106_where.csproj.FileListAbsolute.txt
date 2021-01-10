@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\bin\Debug\106_where.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\bin\Debug\106_where.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\bin\Debug\106_where.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\obj\Debug\106_where.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\obj\Debug\106_where.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\106_where\obj\Debug\106_where.pdb

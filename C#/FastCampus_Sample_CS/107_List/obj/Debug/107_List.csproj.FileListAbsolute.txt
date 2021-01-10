@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\obj\Debug\107_List.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\bin\Debug\107_List.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\bin\Debug\107_List.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\obj\Debug\107_List.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\107_List\obj\Debug\107_List.pdb

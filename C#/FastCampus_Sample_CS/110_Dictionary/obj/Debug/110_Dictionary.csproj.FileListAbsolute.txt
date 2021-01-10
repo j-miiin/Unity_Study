@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\bin\Debug\110_Dictionary.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\110_Dictionary\obj\Debug\110_Dictionary.pdb
