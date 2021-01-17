@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\bin\Debug\113_throw.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\113_throw\obj\Debug\113_throw.pdb

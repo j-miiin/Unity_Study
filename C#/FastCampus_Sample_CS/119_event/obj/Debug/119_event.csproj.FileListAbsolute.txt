@@ -1,0 +1,7 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\bin\Debug\119_event.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\bin\Debug\119_event.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\obj\Debug\119_event.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\obj\Debug\119_event.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\119_event\obj\Debug\119_event.csprojAssemblyReference.cache

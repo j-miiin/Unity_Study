@@ -1,0 +1,6 @@
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe.config
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\bin\Debug\114_finally.pdb
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.csproj.CoreCompileInputs.cache
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.exe
+D:\coding\Unity_Study\C#\FastCampus_Sample_CS\114_finally\obj\Debug\114_finally.pdb
